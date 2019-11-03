@@ -1,0 +1,29 @@
+html,
+body {
+
+    background: url(../images/arriving-train-diesel-locomotive-in-a-railway-P9EWQR6.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#h1Head {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: seashell;
+}
+
+#borderBlue {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 2%;
+}
+
+.jumbotron {
+    margin-top: 2%;
+
+}
+
+#tableBody {
+    text-align: center;
+}
